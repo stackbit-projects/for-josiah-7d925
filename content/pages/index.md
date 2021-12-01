@@ -101,7 +101,7 @@ sections:
         self:
           opacity: 100
       type: ImageBlock
-  - colors: colors-h
+  - colors: colors-i
     elementId: ''
     images:
       - type: ImageBlock
